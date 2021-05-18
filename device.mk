@@ -206,7 +206,7 @@ PRODUCT_PACKAGES += \
 
 # FOD Permissions
 PRODUCT_COPY_FILES += \
-    vendor/evolution/config/permissions/vendor.lineage.biometrics.fingerprint.inscreen.xml:system/etc/permissions/vendor.lineage.biometrics.fingerprint.inscreen.xml
+    vendor/derp/config/permissions/vendor.lineage.biometrics.fingerprint.inscreen.xml:system/etc/permissions/vendor.lineage.biometrics.fingerprint.inscreen.xml
 
 # Freeform Multiwindow
 PRODUCT_COPY_FILES += \

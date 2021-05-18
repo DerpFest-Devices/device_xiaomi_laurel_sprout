@@ -2,25 +2,25 @@
    {  
       "repository"   : "device_xiaomi_laurel_sprout",
       "target_path"  : "device/xiaomi/laurel_sprout",
-      "branch"       : "elle",
+      "branch"       : "derp-11",
       "remote"       : "github"
    },
    {  
       "repository"   : "kernel_xiaomi_laurel_sprout",
       "target_path"  : "kernel/xiaomi/laurel_sprout",
-      "branch"       : "elle",
+      "branch"       : "derp-11",
       "remote"       : "github"
    },
    {  
       "repository"   : "vendor_xiaomi_laurel_sprout",
       "target_path"  : "vendor/xiaomi/laurel_sprout",
-      "branch"       : "elle",
+      "branch"       : "derp-11",
       "remote"       : "github"
    },
    {
       "repository"   : "HemantSachdeva/device_xiaomi_laurel_sprout-images",
       "target_path"  : "device/xiaomi/laurel_sprout-images",
-      "branch"       : "elle",
+      "branch"       : "derp-11",
       "remote"       : "gitlab"
    }
 ]
