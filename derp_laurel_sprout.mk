@@ -16,6 +16,9 @@ $(call inherit-product, device/xiaomi/laurel_sprout/device.mk)
 WITH_GAPPS := true
 $(call inherit-product, vendor/derp/config/common_full_phone.mk)
 
+#build Official-ly
+DERP_BUILDTYPE := Official
+
 TARGET_GAPPS_ARCH := arm64
 TARGET_BOOT_ANIMATION_RES := 720
 TARGET_INCLUDE_WIFI_EXT := true
